@@ -23,3 +23,5 @@ Examples include
     Gists
     comments in issues and pull requests
     files with .md or .markdown
+
+![My Learning markdown notes page](https://ashcaz.github.io/learning-journal/learn-markdown)

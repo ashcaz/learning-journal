@@ -50,5 +50,27 @@ one project one repo
 - git commit -m " " commit with a message
 - git pull : fetch and merge in one
  
+ **Clone a repo on GitHub with terminal to local machine**
+ 
+- open terminal and verify you are at root level
+- create new directory mkdir ________
+- navigate to directory cd _________
+-create new directory within mkdir_______
+- navigate to directory cd ________
+- goto repo on github and hit clone then copy url
+- in terminal type git clone URL hit enter
+- in terminal type git remote -v to verify
+- in terminal type git status to verify if you have the current version
+
+**Using repo locally in VS code with terminal**
+
+- type code . to launch VS code with current repo
+- make changes in vs code if needed
+- type git add or git commit-a to update file with changes
+- type git reset to unstage or undo changes
+- type git commit -m “reason for change” to add message to commit change
+- type git push origin master to upload/publish to github
+- type git fetch to compare origin/master file if changes have been made on github
+- type git pull origin/master to download changes made on GitHub to local file.
  
  [Back to Home Page](https://ashcaz.github.io/learning-journal/)

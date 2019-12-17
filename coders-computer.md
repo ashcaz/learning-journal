@@ -34,3 +34,7 @@ A text editor is a piece of software that allows you to write and manage text, e
 - customization
  -control
  -use with Git
+
+
+
+[Back to Home Page](https://ashcaz.github.io/learning-journal/)

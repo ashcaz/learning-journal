@@ -1,5 +1,11 @@
 ## Welcome to My GitHub Page
 
+[Growth Mindset](https://ashcaz.github.io/learning-journal/Growthmindset)
+[Learning Markdown Notes](https://ashcaz.github.io/learning-journal/learn-markdown)
+[Coder's Computer Notes](https://ashcaz.github.io/learning-journal/coders-computer)
+[Command Line Cheat Sheet](https://ashcaz.github.io/learning-journal/CommanLineCS)
+
+
 ### What does Growth Mindset mean to me?
 
 **Growth Mindset** to me means persurveering and being ok with failure in order to create a life long personal learning/growth enviornment. 

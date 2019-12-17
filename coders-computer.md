@@ -6,7 +6,7 @@
 
 1. Notepad ++
 2. TextWrangler/BB Edit
-3. Visual Stido Code
+3. Visual Studio Code
 4. Atom
 5. Brackets
 6. Sublime Text

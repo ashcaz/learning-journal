@@ -1,8 +1,7 @@
-# Command Line Cheat Sheet
+## Command Line Cheat Sheet
 
-## Command line prompts
 
-### Commands
+ **Commands**
 * pwd (print working directory) -display current working directory
 * cd -change directory (go into new folder)
 * cd .. back yyou out to parent directory

@@ -10,3 +10,6 @@
 * mkdir - makes new directory
 * touch - creates new file
 * rm - deletes files
+
+
+[Back to Home Page](https://ashcaz.github.io/learning-journal/)

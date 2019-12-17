@@ -16,7 +16,7 @@ Examples include
   
   Creating hyperlinks
   
-  Headers are made with hashtag symbols 1 hashtag = <h1>, 2 hastags = <h2> and so on
+  Headers are made with pound symbols 1 pound symbol = h1 tag, 2 pound symbol = h2 tag and so on
   
   Use greater than symbol for block quote
   
@@ -25,7 +25,6 @@ Examples include
     comments in issues and pull requests
     files with .md or .markdown
 
-[Notes Page](https://ashcaz.github.io/learning-journal/learn-markdown)
 
 
 

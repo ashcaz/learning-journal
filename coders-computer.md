@@ -14,6 +14,23 @@ Over all its up to the developer to choose which text editor works best for them
 
 Text Editor vs. IDE (Integrated development enviornment) - An IDE is multiple things in one such as a text editor, debugger, file manager etc
 
+**VS Code**
+* debugger
+* auto complete
+* lang rec
+* syntax highlightiing
+* indentation
+* cursor suggestions
+* auto comletion
+* editing freatures
+* references external material
 
 A text editor is a piece of software that allows you to write and manage text, especially the text you use to build a website.
 
+**Terminal**
+- faster more efficient
+- power scripting
+- chaining commands
+- customization
+ -control
+ -use with Git

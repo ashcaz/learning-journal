@@ -6,4 +6,4 @@ Hi! My name is Ashley. I recently just sepreated from the Navy after 6.5 years. 
 2. [Learning Markdown Notes](https://ashcaz.github.io/learning-journal/learn-markdown)
 3. [Coder's Computer Notes](https://ashcaz.github.io/learning-journal/coders-computer)
 4. [Command Line Cheat Sheet](https://ashcaz.github.io/learning-journal/CommandLineCS)
-5. [Revisions In The Cloud Notes](https://ashcaz.github.io/learning-journal/revisionsinthecloud)
+5. [Revisions In The Cloud Notes](https://ashcaz.github.io/learning-journal/Revisionsinthecloud)

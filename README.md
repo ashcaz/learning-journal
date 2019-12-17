@@ -6,16 +6,6 @@
 4. [Command Line Cheat Sheet](https://ashcaz.github.io/learning-journal/CommandLineCS)
 
 
-### What does Growth Mindset mean to me?
-
-**Growth Mindset** to me means persurveering and being ok with failure in order to create a life long personal learning/growth enviornment. 
-I will try to remeber to
-
-1. Always be curious and willing to learn.
-2. Rome wasnt built in a day
-3. Failing means your trying and making progress
-
-
 
 
 You can use the [editor on GitHub](https://github.com/ashcaz/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

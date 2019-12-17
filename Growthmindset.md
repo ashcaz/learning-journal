@@ -8,3 +8,5 @@ I will try to remeber to
 3. Failing means your trying and making progress
 
 
+
+[Back to Home Page](https://ashcaz.github.io/learning-journal/)

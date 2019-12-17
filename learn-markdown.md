@@ -26,3 +26,7 @@ Examples include
     files with .md or .markdown
 
 [Notes Page](https://ashcaz.github.io/learning-journal/learn-markdown)
+
+
+
+[Back to Home Page](https://ashcaz.github.io/learning-journal/)

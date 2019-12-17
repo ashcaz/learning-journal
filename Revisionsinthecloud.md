@@ -49,3 +49,6 @@ one project one repo
 - git push origin master : pushes changes on computer to github master
 - git commit -m " " commit with a message
 - git pull : fetch and merge in one
+ 
+ 
+ [Back to Home Page](https://ashcaz.github.io/learning-journal/)

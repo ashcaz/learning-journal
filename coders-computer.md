@@ -1,5 +1,3 @@
-# Coder's Computer Notes
-
 ## Choosing a Text Editor
 
 **Different Text Editors**

@@ -1,7 +1,6 @@
-## Welcome to My GitHub Page
+## About Me
 
-Hi! My name is Ashley. I recently just sepreated from the Navy after 6.5 years. I'm excited to lean how to code :)
-
+Hi! My name is Ashley. I recently just sepreated from the Navy after 6.5 years. I'm excited to lean how to code :) Here is my Learning Journal from Code 102.
 
 **DAY 1**
 

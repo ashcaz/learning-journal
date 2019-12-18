@@ -16,15 +16,16 @@ Create a [site map](https://customers.accrisoft.com/clientuploads/sitemap_exampl
 - HTML describesprovides structure to web pages using code/tags
 - tags act like containers. They tell you something about the information that lies between thier opening and closing tags
 - tags plus content inbetween them = element
+
 **Common Tags**
 
-- <body> conists of everything in the main browser window
-- <p> paragraph
-- <h1> Header tags go from 1-6 denoting headings and sub-headings
-- <head> before the body element contains information about the page but usually isnt seen on the page
-- <title> what shows in the browser tab
+- body: conists of everything in the main browser window
+- p: paragraph
+- h1:  Header tags go from 1-6 denoting headings and sub-headings
+- head: before the body element contains information about the page but usually isnt seen on the page
+- title:  what shows in the browser tab
 
-- tags can also have attributes ex. <p lang (attribute name)= "en-us" (attribute vale)>
+- tags can also have attributes ex. p lang (attribute name)= "en-us" (attribute vale)
 
 Chrome > View > Developer > View Source (option + command + u) - allows you to view code for websites you are visitng
 

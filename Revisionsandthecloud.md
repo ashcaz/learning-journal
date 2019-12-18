@@ -1,4 +1,4 @@
-# Revisions in the cloud
+# Revisions and the cloud
 
 **Version control (VCS)**
 

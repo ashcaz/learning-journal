@@ -37,15 +37,15 @@ Chrome > View > Developer > View Source (option + command + u) - allows you to v
 
 **New Element Tags**
 
-- <header> : Top of the page
-- <footer> : Bottom of the page can contain things like copyright, links to privacy policy etc (site map)
-- <nav> : Navigational blocks
-- <article> : container for any section of a page that could stand alone
-- <aside> : container for content that is related to the entire page unless used within <article>.
-- <section> : groups related content together
-- <hgroup> : group together a set of 1 or more <h1> through <h6> elements
-- <figure><figcaption> : used to contain any content that is referenced from the main flow of an article
-- <div> : mulitpurpose container when there is no other suitable element
+- header : Top of the page
+- footer : Bottom of the page can contain things like copyright, links to privacy policy etc (site map)
+- nav : Navigational blocks
+- article : container for any section of a page that could stand alone
+- aside : container for content that is related to the entire page unless used within article tag.
+- section : groups related content together
+- hgroup : group together a set of 1 or more h1 through h6 elements
+- figure and figcaption : used to contain any content that is referenced from the main flow of an article
+- div : mulitpurpose container when there is no other suitable element
 -
 
 [Back to Home Page](https://ashcaz.github.io/learning-journal/)

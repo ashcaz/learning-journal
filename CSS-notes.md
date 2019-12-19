@@ -4,17 +4,17 @@
 
 **Understanding CSS**
 
-- The key to undertsnading how CSS works is to imagine that there is an invisible box around ebery HTML element.
+- The key to understanding how CSS works is to imagine that there is an invisible box around every HTML element.
 - CSS allows you to create rules that determines what each individual box is presented
 - CSS associates the rules you create with the HTML element. A CSS rule has two parts a **selector** - indicates which element the rule applies to, and a **declaration** -indicates how the elements referred to in the selector should be styled
 
 p (selector){
-    font-family (property); Arial (value); (everything inside curly brackets = decllaration)
+    font-family (property); Arial (value); (everything inside curly brackets = declaration)
 }
 
 - Declarations sit inside of curly brackets
 - Declarations are made up of two parts: a **property** - indicates the aspect of the element you want to change, and a **value** - specify settings you want to use for the chosen property.
-- Several properties in one declaration can be specified when seperated by a semi-colon
+- Several properties in one declaration can be specified when separated by a semi-colon
 
 **Using External CSS**
 
@@ -37,7 +37,7 @@ link href="css/styles.css" type="text/css" rel="stylesheet"
 - class selector : .note {} or p.note - targets on p elements with that class attribute
 - ID selector : #introduction {}
 - Child selector : li>a {} - targets any a elements that are children of li
-- adjacent sibling selector : h1+p {} - targets first element after any h1 element but no othe p element
+- adjacent sibling selector : h1+p {} - targets first element after any h1 element but no other p element
 
 CSS works in cascading rules - goes from top to bottom, if two rules are identical for one selector the latter of the two with take precedence over the first
 
@@ -50,8 +50,8 @@ CSS works in cascading rules - goes from top to bottom, if two rules are identic
 
 **Foreground Color**
 
-- To change forground color use property color in your declaration.
-- You can provied the value (color you want) by color name, hex code or RGB value
+- To change foreground color use property color in your declaration.
+- You can provided the value (color you want) by color name, hex code or RGB value
 
 h1{
     color: DarkCyan (color name) / #ee3e80 (hex code) /rgb(100,100,900);
@@ -60,14 +60,14 @@ h1{
 **Background Color**
 
 -To change the background color use the property background-color in your declaration.
-Same rules apply as forground color for your value selection.
+Same rules apply as foreground color for your value selection.
 
 **Understanding Color**
 
 - RGB values: values for red, green, and blue are expressed as numbers between 0 and 255. rgb(102[red], 205[green], 170[blue])
 - Hex Codes: hex values represent values for red, green, and blue in hexadecimal code.
 - Color Names: colors represented by printed name. Very limited in number
-- Saturation: referts to the amount of gray in a color
+- Saturation: refers to the amount of gray in a color
 - Brightness: refers to how much black is in a color. Max brightness - no black in color
 
 **Opacity**

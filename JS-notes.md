@@ -50,3 +50,4 @@
 6. If your variable name is made up of more than one word, use a capital letter for the second word and and other word after.
 
 
+[Back to Home Page](https://ashcaz.github.io/learning-journal/)

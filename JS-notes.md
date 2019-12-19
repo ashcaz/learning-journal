@@ -18,7 +18,7 @@
 **Variables** 
 
 - Variables are used by scripts to temporarily store information
-- Before you can use a variable you need to annouce that you want to use it
+- Before you can use a variable you need to announce that you want to use it
 
     var quantity;
 
@@ -30,8 +30,8 @@
 
     quantity = 3
 
-- equal sign is the assignment operator it says that youre going to assign a value to the variable
-- 3 is the varibale value. Until you assign a value the value is undifined
+- equal sign is the assignment operator it says that you're going to assign a value to the variable
+- 3 is the variable value. Until you assign a value the value is undefined
 
 **Data Types**
 
@@ -40,10 +40,10 @@
     - strings must always be written on one line
 - **Boolean** data types: can have one of two values: true or false
 
-**Rules For Naming Varibles**
+**Rules For Naming Variables**
 
 1. The name must begin with a letter, a dollar sign($) or an underscore (_). It must not start with a number
-2. The name can contain letters, numbers, dollars sign or an underscore. You may not use a dash (-) or a period (.)ina varibable name.
+2. The name can contain letters, numbers, dollars sign or an underscore. You may not use a dash (-) or a period (.) in a variable name.
 3. You can not use keywords or reserved words
 4. All variables are case sensitive.
 5. Use a name that describes the kind of information that the variable stores

@@ -15,4 +15,6 @@ Hi! My name is Ashley. I recently just sepreated from the Navy after 6.5 years. 
 6. [HTML5 Notes](https://ashcaz.github.io/learning-journal/HTML-notes)
 
 **DAY 3**
+
 7. [CSS Notes](https://ashcaz.github.io/learning-journal/CSS-notes)
+8. [JavaScript Notes](https://ashcaz.github.io/learning-journal/JS-notes)

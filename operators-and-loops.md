@@ -12,6 +12,6 @@ You can evaluate a situation by comparing one value in the script to what you ex
 - ```<=``` lessthan or equal to
 - ```&& ```Logical and
 - ```||``` Logical or
--```!``` Logical not
+- ```!``` Logical not
 
 [Back to Home Page](https://ashcaz.github.io/learning-journal/)

@@ -73,6 +73,23 @@ JavaScript is what allows you to make websites more interavtive
 
         buy = (5 > 3) && (2 < 4)
 
+**Arithmetic Operator**
+
+- Addition (+) adds another value
+- Subtraction (-) subtracts one value from another
+- Divison (/) divides two values
+- Multiplication (*) Multiples two values
+- Increment (++) adds one to the current number
+- Decrement (--) subtracts one from the current number
+- Modulus (%) divides two values and returns the remainder
+
+**String Operator**
+
+- there is only one string operator : the + symbol
+- the process of joining two or more strings to create one new string is called **concatenation**
+
+
+
 
 
 [Back to Home Page](https://ashcaz.github.io/learning-journal/)

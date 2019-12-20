@@ -96,9 +96,9 @@ JavaScript is what allows you to make websites more interavtive
 - When you write a function and you expect it to provide you with a response, the reponse is called a **return value**
 - To create a function you have to give it a name and then write the statements need to achieve the task in curly braces.
 
-''function sayHello (){
+'''function sayHello (){
     document.write('Hello!');
-}''
+}'''
 
 
 

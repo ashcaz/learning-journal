@@ -88,7 +88,17 @@ JavaScript is what allows you to make websites more interavtive
 - there is only one string operator : the + symbol
 - the process of joining two or more strings to create one new string is called **concatenation**
 
+**Functions**
 
+- A **function** is a group or series of statements together that perform a certain task
+- Functions are not always executed when the page loads. When you ask it to perform a task, its known as **calling the function**
+- Some functions need to be provided with information in order to complete the task. A function that gives you an area needs to be provided with a height and width. The pieces of information passed are called **parameters**
+- When you write a function and you expect it to provide you with a response, the reponse is called a **return value**
+- To create a function you have to give it a name and then write the statements need to achieve the task in curly braces.
+
+''function sayHello (){
+    document.write('Hello!');
+}''
 
 
 
